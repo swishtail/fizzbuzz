@@ -1,1 +1,1 @@
-FizzBuzz in R5RS Scheme
+FizzBuzz in R5RS Scheme. Any divisor can be tested and associated with its own exclamation by passing the fizzbuzz procedure an association list with pairs of divisors and exclamations, e.g. ((3 "Fizz") (5 "Buzz") (7 "Hiss") (11 "Howl")).
